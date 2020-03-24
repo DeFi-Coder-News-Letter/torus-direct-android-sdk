@@ -1,0 +1,3 @@
+rootProject.name='torus-direct-android'
+include ':app'
+include ':torus-direct-android-sdk'
